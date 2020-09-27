@@ -3,11 +3,11 @@ Seymour Reeves-Boddy
 REEVS3
 27/09/2020
 
-##Pre-requisites 
+# Pre-requisites 
 Linux Machine 
 Sudo Privalges
 
-##Purpose
+# Purpose
 
 The Purpose of task 1 is to ingest a csv file read the emails birthdays and supplied directory to create users and groups on a linux system
 
